@@ -30,8 +30,6 @@ Install requirements:
 Run with:
   <br> streamlit run document_ai.py
 
-OpenAI API Key : 
-  <br> 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
 
 
 ### Flow Diagram
